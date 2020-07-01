@@ -68,5 +68,5 @@ IVAR2="/etc/key-gerador"
 echo "$Key" > $IVAR2
 rm $HOME/lista-arq
 echo -e "\033[1;33m Perfecto, utilize el comando \033[1;31mgerar.sh o gerar \033[1;33mpara administrar sus keys y
- actualizar la base del 
- echo -ne "\033[0m"1
+ actualizar la base del servidor"
+echo -ne "\033[0m"1
